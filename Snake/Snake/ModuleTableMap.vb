@@ -1,0 +1,6 @@
+﻿Module ModuleTableMap
+    Public tablePosition() As Button = {frmGame.btn1, frmGame.btn2, frmGame.btn3, frmGame.btn4, frmGame.btn5, frmGame.btn6, frmGame.btn7, frmGame.btn8, frmGame.btn9, frmGame.btn10, frmGame.btn11, frmGame.btn12, frmGame.btn13, frmGame.btn14, frmGame.btn15, frmGame.btn16, frmGame.btn17, frmGame.btn18, frmGame.btn19, frmGame.btn20, frmGame.btn21, frmGame.btn22, frmGame.btn23, frmGame.btn24, frmGame.btn25, frmGame.btn26, frmGame.btn27, frmGame.btn28, frmGame.btn29, frmGame.btn30, frmGame.btn31, frmGame.btn32, frmGame.btn33, frmGame.btn34, frmGame.btn35, frmGame.btn36, frmGame.btn37, frmGame.btn38, frmGame.btn39, frmGame.btn40, frmGame.btn41, frmGame.btn42, frmGame.btn43, frmGame.btn44, frmGame.btn45, frmGame.btn46, frmGame.btn47, frmGame.btn48, frmGame.btn49, frmGame.btn50, frmGame.btn51, frmGame.btn52, frmGame.btn53, frmGame.btn54, frmGame.btn55, frmGame.btn56, frmGame.btn57, frmGame.btn58, frmGame.btn59, frmGame.btn60, frmGame.btn61, frmGame.btn62, frmGame.btn63, frmGame.btn64, frmGame.btn65, frmGame.btn66, frmGame.btn67, frmGame.btn68, frmGame.btn69, frmGame.btn70, frmGame.btn71, frmGame.btn72, frmGame.btn73, frmGame.btn74, frmGame.btn75, frmGame.btn76, frmGame.btn77, frmGame.btn78, frmGame.btn79, frmGame.btn80, frmGame.btn81}
+
+
+
+End Module
